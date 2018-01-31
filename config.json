@@ -1,0 +1,15 @@
+{
+    "title": "Holy",
+    "baseURL": "https:\/\/www.begunthespamwarshave.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1759049",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "begunthespamwarshave.com"
+    }
+}
